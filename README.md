@@ -188,25 +188,21 @@ public abstract class BaseListActivity<T> extends BaseActivity implements Onhttp
 
 ```
 
-#在巨人肩上做事才会事半功倍:
-</br></br>
+###鸣谢，排名不分先后:
+* fastjson:阿里巴巴FastJson是一个Json处理工具包，包括“序列化”和“反序列化”两部分，它具备如下特征：速度最快，测试表明，fastjson具有极快的性能，超越任其他的Java Json parser。包括自称最快的JackJson；功能强大，完全支持Java Bean、集合、Map、日期、Enum，支持范型，支持自省；无依赖，能够直接运行在Java SE 5.0以上版本；支持Android；开源 (Apache 2.0)
+
+* android-async-http :本框架的一切HTTP请求都基于此，so，不是一般的强大
+
+* systembartint ：改变状态栏颜色--作为一个程序员也要有审美好伐~
 
 
-* ###fastjson:阿里巴巴FastJson是一个Json处理工具包，包括“序列化”和“反序列化”两部分，它具备如下特征：速度最快，测试表明，fastjson具有极快的性能，超越任其他的Java Json parser。包括自称最快的JackJson；功能强大，完全支持Java Bean、集合、Map、日期、Enum，支持范型，支持自省；无依赖，能够直接运行在Java SE 5.0以上版本；支持Android；开源 (Apache 2.0)
-</br></br></br>
 
-
-* ###android-async-http :本框架的一切HTTP请求都基于此，so，不是一般的强大
-</br></br></br>
-
-
-* ###systembartint ：改变状态栏颜色--作为一个程序员也要有审美好伐~
-</br></br></br>
-
-
-##有问题反馈
+###有问题反馈
 </br>
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * 邮件(zhengzheng#andthink.cn, 把#换成@)
 * QQ: 1512178050
+
+
+###欢迎fork......
